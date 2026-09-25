@@ -1,0 +1,2 @@
+function Topbar() { return <div className="mb-6 rounded-xl border border-[#dce8e4] bg-white px-5 py-4"><p className="text-xs font-bold tracking-[.14em] text-[#bd8128]">CAMPUSONE ERP</p><h1 className="mt-1 text-xl font-bold text-[#193e37]">Academic information portal</h1><p className="mt-1 text-sm text-[#70837e]">Review your academic activity, notices and services.</p></div>; }
+export default Topbar;
